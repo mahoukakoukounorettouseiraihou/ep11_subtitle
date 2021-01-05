@@ -1,0 +1,268 @@
+﻿[Script Info]
+Title: Erai-raws
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,25,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:13.99,0:00:15.83,Default,,0,0,0,,{\fad(0,500)\shad2\fs39\bord0\fnOpen Sans Light\b0\3c&H000000&\u1\pos(288,90)\c&HFFFFFF&\4c&H000000&\clip(128,46,328,126)\t(0,50,\clip(128,46,440,130))}FEBRUARY 20, 2096
+Dialogue: 0,0:00:36.37,0:00:39.95,Default,,0,0,0,,If you ever want to quit being a soldier,
+Dialogue: 0,0:00:39.95,0:00:41.83,Default,,0,0,0,,I think I can help.
+Dialogue: 0,0:00:46.29,0:00:49.29,Default,,0,0,0,,Why did Tatsuya say such a thing?
+Dialogue: 0,0:01:08.79,0:01:12.62,Default,,0,0,0,,Sure, it pained me\Nto point a gun at my own.
+Dialogue: 0,0:01:14.95,0:01:22.49,Default,,0,0,0,,But rather than let them live as demons,\NI wanted their souls to rest in peace.
+Dialogue: 0,0:01:24.54,0:01:28.99,Default,,0,0,0,,This was a job that only I could do as Sirius,
+Dialogue: 0,0:01:28.99,0:01:32.54,Default,,0,0,0,,the most powerful magician.
+Dialogue: 0,0:01:35.24,0:01:36.95,Default,,0,0,0,,Only me?
+Dialogue: 0,0:01:44.04,0:01:45.91,Default,,0,0,0,,I see.
+Dialogue: 0,0:01:45.91,0:01:50.20,Default,,0,0,0,,That was why I was lost and impatient.
+Dialogue: 0,0:01:58.33,0:02:02.66,Default,,0,0,0,,I can be something other than Sirius.
+Dialogue: 0,0:03:34.20,0:03:38.44,Default,,0,0,0,,{\fad(100,500)\shad2\fs39\bord0\fnOpen Sans Light\b0\3c&H000000&\u1\pos(288,90)\c&HFFFFFF&\4c&H000000&\clip(128,46,328,126)\t(0,50,\clip(128,46,440,130))}MARCH 15, 2096
+Dialogue: 0,0:03:38.79,0:03:43.20,Default,,0,0,0,,{\an8}"NATIONAL MAGIC UNIVERSITY\NAFFILIATED FIRST HIGH SCHOOL"\N"29th GRADUATION CEREMONY"
+Dialogue: 0,0:04:31.33,0:04:34.08,Default,,0,0,0,,The sealed parasites are gone?
+Dialogue: 0,0:04:34.08,0:04:36.12,Default,,0,0,0,,I'm sorry, Tatsuya.
+Dialogue: 0,0:04:36.12,0:04:39.87,Default,,0,0,0,,I didn't mean to take my eyes off them.
+Dialogue: 0,0:04:39.87,0:04:42.70,Default,,0,0,0,,Tatsuya, I'm really sorry.
+Dialogue: 0,0:04:42.70,0:04:46.45,Default,,0,0,0,,Tatsuya, please don't blame\NShibata or Mitsui.
+Dialogue: 0,0:04:46.45,0:04:51.49,Default,,0,0,0,,Even I didn't notice\Nthe sealed vessels being taken away.
+Dialogue: 0,0:04:51.49,0:04:52.89,Default,,0,0,0,,They were my seals, too.
+Dialogue: 0,0:04:52.89,0:04:54.58,Default,,0,0,0,,All three of you...
+Dialogue: 0,0:04:54.58,0:04:56.91,Default,,0,0,0,,Stop blaming yourselves.
+Dialogue: 0,0:04:56.91,0:04:59.04,Default,,0,0,0,,I don't mind at all.
+Dialogue: 0,0:04:59.04,0:05:00.87,Default,,0,0,0,,Tatsuya...
+Dialogue: 0,0:05:00.87,0:05:05.33,Default,,0,0,0,,It only means whoever did it\Nis one step better than us.
+Dialogue: 0,0:05:05.33,0:05:10.04,Default,,0,0,0,,I actually hadn't thought much about\Nwhat to do with them after we caught them,
+Dialogue: 0,0:05:10.04,0:05:12.41,Default,,0,0,0,,and it's not worth\Nobsessing over it anyway.
+Dialogue: 0,0:05:12.41,0:05:16.87,Default,,0,0,0,,That's right. It's not because\Nyou were careless, Miki.
+Dialogue: 0,0:05:16.87,0:05:20.29,Default,,0,0,0,,You're so cruel, you know.
+Dialogue: 0,0:05:31.62,0:05:34.99,Default,,0,0,0,,Still, though...\NWas this what they were after all along?
+Dialogue: 0,0:05:38.33,0:05:40.70,Default,,0,0,0,,Brother, thank you for waiting.
+Dialogue: 0,0:05:40.70,0:05:42.83,Default,,0,0,0,,The party's all finished.
+Dialogue: 0,0:05:42.83,0:05:44.29,Default,,0,0,0,,I hope you enjoyed it.
+Dialogue: 0,0:05:49.41,0:05:51.99,Default,,0,0,0,,What were you writing, Tatsuya?
+Dialogue: 0,0:05:51.99,0:05:58.12,Default,,0,0,0,,Just a few notes about system-level assistance\Nthat could lengthen spell duration.
+Dialogue: 0,0:05:59.04,0:06:05.20,Default,,0,0,0,,I don't think that's the sort of topic\Nyou can just brush off like that.
+Dialogue: 0,0:06:05.20,0:06:08.70,Default,,0,0,0,,Anyway, what are you all here for?
+Dialogue: 0,0:06:08.70,0:06:15.12,Default,,0,0,0,,I'm sure both of you have gotten\Nmore than a few after-party invitations.
+Dialogue: 0,0:06:15.12,0:06:19.41,Default,,0,0,0,,We wanted to bid you farewell.
+Dialogue: 0,0:06:20.99,0:06:22.37,Default,,0,0,0,,That's very kind of you.
+Dialogue: 0,0:06:22.37,0:06:24.49,Default,,0,0,0,,You didn't have to come all the way here.
+Dialogue: 0,0:06:24.49,0:06:27.99,Default,,0,0,0,,I was planning to come by\Nand say goodbye to you all.
+Dialogue: 0,0:06:27.99,0:06:29.91,Default,,0,0,0,,Oh, you did?
+Dialogue: 0,0:06:29.91,0:06:34.16,Default,,0,0,0,,We thought you pretended\Nnot to notice and went home
+Dialogue: 0,0:06:34.16,0:06:37.16,Default,,0,0,0,,because you were cooped up here\Nduring the party.
+Dialogue: 0,0:06:37.16,0:06:39.66,Default,,0,0,0,,I can't exactly turn up\Nat a graduation party
+Dialogue: 0,0:06:39.66,0:06:42.33,Default,,0,0,0,,when I'm not even on the Student Council.
+Dialogue: 0,0:06:42.33,0:06:44.70,Default,,0,0,0,,Especially not the Course 1 party.
+Dialogue: 0,0:06:44.70,0:06:46.33,Default,,0,0,0,,Why not?
+Dialogue: 0,0:06:46.33,0:06:48.33,Default,,0,0,0,,Why did they make me help with the party
+Dialogue: 0,0:06:48.33,0:06:50.91,Default,,0,0,0,,when I'm not even an\Nofficial Student Council member...
+Dialogue: 0,0:06:50.91,0:06:54.41,Default,,0,0,0,,and someone on the Disciplinary Committee\Ndoesn't have to do anything?
+Dialogue: 0,0:06:55.33,0:06:58.08,Default,,0,0,0,,Disciplinary Committee members\Naren't on the Student Council.
+Dialogue: 0,0:06:58.08,0:07:02.20,Default,,0,0,0,,And you're technically still on the Student Council\Neven though it's temporary, aren't you?
+Dialogue: 0,0:07:03.24,0:07:05.41,Default,,0,0,0,,You'll need more than that to convince me!
+Dialogue: 0,0:07:05.41,0:07:06.79,Default,,0,0,0,,Wait, Lina.
+Dialogue: 0,0:07:06.79,0:07:09.45,Default,,0,0,0,,Don't be rude to my brother.
+Dialogue: 0,0:07:09.45,0:07:12.04,Default,,0,0,0,,We decided before we started\Nsetting up for the graduation party
+Dialogue: 0,0:07:12.04,0:07:14.62,Default,,0,0,0,,that you were a temporary\NStudent Council member
+Dialogue: 0,0:07:14.62,0:07:19.12,Default,,0,0,0,,and that my brother was\Na Disciplinary Committee member.
+Dialogue: 0,0:07:19.12,0:07:22.37,Default,,0,0,0,,Besides, you were so keen\Non the idea before.
+Dialogue: 0,0:07:23.58,0:07:25.29,Default,,0,0,0,,Miyuki, what do you mean?
+Dialogue: 0,0:07:25.29,0:07:26.33,Default,,0,0,0,,Oh, well...
+Dialogue: 0,0:07:26.33,0:07:28.12,Default,,0,0,0,,It's nothing, Tatsuya!
+Dialogue: 0,0:07:28.12,0:07:30.29,Default,,0,0,0,,Since Lina is a temporary officer,
+Dialogue: 0,0:07:30.29,0:07:34.62,Default,,0,0,0,,we would've felt bad putting her on a task\Nthat demanded very much work.
+Dialogue: 0,0:07:34.62,0:07:42.49,Default,,0,0,0,,{\an8}Miyuki!
+Dialogue: 0,0:07:34.62,0:07:38.20,Default,,0,0,0,,Instead, we put her in charge\Nof the day's entertainment, but...
+Dialogue: 0,0:07:38.20,0:07:42.49,Default,,0,0,0,,...when I said "entertainment,"\NI didn't mean she had to do something.
+Dialogue: 0,0:07:42.49,0:07:47.91,Default,,0,0,0,,I meant just rounding up students\Nand graduates who wanted to. But...
+Dialogue: 0,0:07:45.79,0:07:47.91,Default,,0,0,0,,{\an8}Miyuki, don't say it!
+Dialogue: 0,0:07:47.91,0:07:50.20,Default,,0,0,0,,Lina seems to have misunderstood, and...
+Dialogue: 0,0:07:50.20,0:07:52.70,Default,,0,0,0,,Miyuki, please! Don't tell him!
+Dialogue: 0,0:07:52.70,0:07:53.66,Default,,0,0,0,,And?
+Dialogue: 0,0:07:53.66,0:07:56.04,Default,,0,0,0,,Yes, and...
+Dialogue: 0,0:07:56.04,0:07:59.33,Default,,0,0,0,,she got up onstage in front of the band.
+Dialogue: 0,0:08:00.49,0:08:04.74,Default,,0,0,0,,Then, she sung about ten songs in a row.\NEveryone was very excited.
+Dialogue: 0,0:08:04.74,0:08:07.58,Default,,0,0,0,,Yeah, that was a pretty good\Nlive performance.
+Dialogue: 0,0:08:07.58,0:08:09.58,Default,,0,0,0,,Better than some professional ones.
+Dialogue: 0,0:08:09.58,0:08:13.33,Default,,0,0,0,,It's true. You're very good\Nat singing, Shields.
+Dialogue: 0,0:08:13.33,0:08:15.29,Default,,0,0,0,,You have a wonderful voice.
+Dialogue: 0,0:08:17.24,0:08:18.70,Default,,0,0,0,,I see.
+Dialogue: 0,0:08:18.70,0:08:21.58,Default,,0,0,0,,You made a good memory today, Lina.
+Dialogue: 0,0:08:25.08,0:08:26.83,Default,,0,0,0,,Buzz off!
+Dialogue: 0,0:08:28.83,0:08:31.74,Default,,0,0,0,,{\fad(0,500)\shad2\fs39\bord0\fnOpen Sans Light\b0\3c&H000000&\u1\c&HFFFFFF&\4c&H000000&\pos(594,88)\clip(108,18,286,154)\t(0,150,\clip(108,18,1042,142))}MARCH 26, 2096 - TOKYO BAY MARITIME INTERNATIONAL AIRPORT
+Dialogue: 0,0:08:44.08,0:08:46.83,Default,,0,0,0,,Shizuku should be here soon.
+Dialogue: 0,0:08:46.83,0:08:48.20,Default,,0,0,0,,Yep!
+Dialogue: 0,0:08:54.12,0:08:56.24,Default,,0,0,0,,Welcome home, Shizuku!
+Dialogue: 0,0:08:56.24,0:08:57.70,Default,,0,0,0,,Welcome home!
+Dialogue: 0,0:08:59.41,0:09:02.08,Default,,0,0,0,,I'm home, Honoka.
+Dialogue: 0,0:09:02.08,0:09:05.12,Default,,0,0,0,,Welcome back, Shizuku.\NI'm happy you had a safe flight.
+Dialogue: 0,0:09:05.12,0:09:07.29,Default,,0,0,0,,Yep.
+Dialogue: 0,0:09:07.29,0:09:10.24,Default,,0,0,0,,Shizuku, you seem kind of different.
+Dialogue: 0,0:09:10.24,0:09:13.12,Default,,0,0,0,,Yeah, more mature-like.
+Dialogue: 0,0:09:13.12,0:09:16.37,Default,,0,0,0,,Have you had any experiences\Nyou weren't supposed to over there?
+Dialogue: 0,0:09:16.37,0:09:18.08,Default,,0,0,0,,Erika!
+Dialogue: 0,0:09:19.16,0:09:20.91,Default,,0,0,0,,Tatsuya...
+Dialogue: 0,0:09:20.91,0:09:23.70,Default,,0,0,0,,There's a lot\NI want to talk to you about.
+Dialogue: 0,0:09:23.70,0:09:27.87,Default,,0,0,0,,A lot of messages from Ray, too.\NWanna hear it now?
+Dialogue: 0,0:09:27.87,0:09:30.45,Default,,0,0,0,,Sure. Let me hear it.
+Dialogue: 0,0:09:34.70,0:09:36.41,Default,,0,0,0,,Thank you for waiting, everyone.
+Dialogue: 0,0:09:36.41,0:09:36.97,Default,,0,0,0,,All aboard.
+Dialogue: 0,0:09:36.97,0:09:38.41,Default,,0,0,0,,Okay.
+Dialogue: 0,0:09:41.20,0:09:43.70,Default,,0,0,0,,Sorry, Shizuku. Be right back.
+Dialogue: 0,0:09:47.29,0:09:49.74,Default,,0,0,0,,Honoka, no getting in the way.
+Dialogue: 0,0:09:49.74,0:09:52.20,Default,,0,0,0,,They need to say goodbye to a rival.
+Dialogue: 0,0:09:58.70,0:10:00.04,Default,,0,0,0,,Lina!
+Dialogue: 0,0:10:02.66,0:10:05.16,Default,,0,0,0,,Tatsuya, Miyuki...
+Dialogue: 0,0:10:05.16,0:10:07.58,Default,,0,0,0,,Did you come to see me off?
+Dialogue: 0,0:10:07.58,0:10:11.12,Default,,0,0,0,,Something like that. Though actually,\Nrunning into you was a coincidence.
+Dialogue: 0,0:10:11.12,0:10:14.87,Default,,0,0,0,,Wait. Didn't I tell you\Nwhat day I was leaving?
+Dialogue: 0,0:10:14.87,0:10:16.87,Default,,0,0,0,,I don't think so.
+Dialogue: 0,0:10:16.87,0:10:17.83,Default,,0,0,0,,By the way...
+Dialogue: 0,0:10:17.80,0:10:20.89,Default,,0,0,0,,{\an8}"ASAKUSA"
+Dialogue: 0,0:10:22.74,0:10:25.24,Default,,0,0,0,,{\an8}"FESTIVAL TAG"\N"MT. FUJI"
+Dialogue: 0,0:10:26.24,0:10:28.49,Default,,0,0,0,,You're sure taking home a lot.
+Dialogue: 0,0:10:28.49,0:10:30.45,Default,,0,0,0,,You must've gone on a shopping spree.
+Dialogue: 0,0:10:30.45,0:10:32.24,Default,,0,0,0,,Isn't it neat?
+Dialogue: 0,0:10:32.24,0:10:36.29,Default,,0,0,0,,{\an8}"BRAVO"
+Dialogue: 0,0:10:33.54,0:10:36.29,Default,,0,0,0,,Japanese culture is so cool!
+Dialogue: 0,0:10:36.29,0:10:41.58,Default,,0,0,0,,I've fallen in love with Japan\Nwhile studying here!
+Dialogue: 0,0:10:41.58,0:10:44.24,Default,,0,0,0,,Thanks for everything, you two.
+Dialogue: 0,0:10:44.24,0:10:47.41,Default,,0,0,0,,Don't you mean "sorry for the trouble"?
+Dialogue: 0,0:10:47.41,0:10:50.41,Default,,0,0,0,,You're the ones who caused trouble for me.
+Dialogue: 0,0:10:50.41,0:10:53.95,Default,,0,0,0,,You really don't have any mercy,\Neven at the end, Tatsuya.
+Dialogue: 0,0:10:53.95,0:10:57.62,Default,,0,0,0,,I expect holding back\Nwouldn't make you any happier.
+Dialogue: 0,0:10:57.62,0:11:00.74,Default,,0,0,0,,And this isn't the end, right?
+Dialogue: 0,0:11:00.74,0:11:02.62,Default,,0,0,0,,Who knows?
+Dialogue: 0,0:11:02.62,0:11:07.16,Default,,0,0,0,,I'm pretty sure I wouldn't just leave\Nmy home country on a dime.
+Dialogue: 0,0:11:07.16,0:11:10.87,Default,,0,0,0,,But no, this isn't the end.
+Dialogue: 0,0:11:10.87,0:11:12.70,Default,,0,0,0,,Miyuki?
+Dialogue: 0,0:11:12.70,0:11:17.66,Default,,0,0,0,,So, I'm not going to say goodbye, Lina.
+Dialogue: 0,0:11:17.66,0:11:21.95,Default,,0,0,0,,You know that sounds\Nkind of like a confession, right?
+Dialogue: 0,0:11:21.95,0:11:25.29,Default,,0,0,0,,Yes, maybe it's a kind of confession.
+Dialogue: 0,0:11:25.29,0:11:29.83,Default,,0,0,0,,You are my rival, Lina.
+Dialogue: 0,0:11:29.83,0:11:36.16,Default,,0,0,0,,I'm sure you'll take the help\Nmy brother offered you.
+Dialogue: 0,0:11:36.16,0:11:39.83,Default,,0,0,0,,I know you'll join him.
+Dialogue: 0,0:11:39.83,0:11:43.45,Default,,0,0,0,,That will be when our\Nreal competition begins.
+Dialogue: 0,0:11:45.45,0:11:48.58,Default,,0,0,0,,That's why I won't say goodbye.
+Dialogue: 0,0:11:48.58,0:11:51.16,Default,,0,0,0,,We'll see you again, Lina.
+Dialogue: 0,0:11:53.04,0:11:58.20,Default,,0,0,0,,I don't really understand\Nwhat you're talking about, but...
+Dialogue: 0,0:11:58.20,0:12:04.12,Default,,0,0,0,,I have a feeling\Nthat you're going to be right.
+Dialogue: 0,0:12:04.12,0:12:07.45,Default,,0,0,0,,In that case, Miyuki, until we meet again...
+Dialogue: 0,0:12:09.33,0:12:12.37,Default,,0,0,0,,Tatsuya...
+Dialogue: 0,0:12:12.37,0:12:16.87,Default,,0,0,0,,Yeah. See you again.
+Dialogue: 0,0:12:16.87,0:12:19.91,Default,,0,0,0,,I'm looking forward to it.
+Dialogue: 0,0:12:22.49,0:12:24.01,Default,,0,0,0,,{\bord3\fnOpen Sans Extrabold\b0\c&HFFFEFC&\3c&H1D3EDF&\pos(702,68)}VISITOR ARC XI
+Dialogue: 0,0:14:40.91,0:14:43.83,Default,,0,0,0,,{\fad(0,500)\shad2\fs39\bord0\fnOpen Sans\b0\3c&H000000&\u1\c&HFFFFFF&\4c&H000000&\pos(444,90)\clip(130,18,288,156)\t(0,100,\clip(130,18,748,150))}APRIL 5, 2096 - YOTSUBA MAIN RESIDENCE
+Dialogue: 0,0:14:47.20,0:14:49.08,Default,,0,0,0,,What are your thoughts, milady?
+Dialogue: 0,0:14:52.99,0:14:55.45,Default,,0,0,0,,Let's go with her.
+Dialogue: 0,0:14:55.45,0:14:57.08,Default,,0,0,0,,As you wish.
+Dialogue: 0,0:15:00.79,0:15:03.66,Default,,0,0,0,,{\fad(0,500)\shad2\fs39\bord0\fnOpen Sans\b0\3c&H000000&\u1\c&HFFFFFF&\4c&H000000&\clip(128,46,328,126)\t(0,50,\clip(128,46,440,130))\pos(250,96)}APRIL 6, 2096
+Dialogue: 0,0:15:18.87,0:15:22.58,Default,,0,0,0,,You're in an especially good mood today.
+Dialogue: 0,0:15:22.58,0:15:25.95,Default,,0,0,0,,It suits you so well, Brother.
+Dialogue: 0,0:15:25.95,0:15:28.62,Default,,0,0,0,,The new uniform?
+Dialogue: 0,0:15:28.62,0:15:32.70,Default,,0,0,0,,It's as if the uniform\Nwas designed for you, Brother.
+Dialogue: 0,0:15:32.70,0:15:37.20,Default,,0,0,0,,In fact, I'll bet it was designed for you!
+Dialogue: 0,0:15:37.20,0:15:39.16,Default,,0,0,0,,That's an exaggeration.
+Dialogue: 0,0:15:39.16,0:15:41.41,Default,,0,0,0,,It's no exaggeration!
+Dialogue: 0,0:15:41.41,0:15:46.99,Default,,0,0,0,,The new Magic Engineering Course\Nexists because of you!
+Dialogue: 0,0:15:46.99,0:15:49.58,Default,,0,0,0,,You call it a new design,
+Dialogue: 0,0:15:49.58,0:15:52.29,Default,,0,0,0,,but all they did was add an emblem.
+Dialogue: 0,0:15:52.29,0:15:55.54,Default,,0,0,0,,That's what's good about it!
+Dialogue: 0,0:15:55.54,0:15:56.74,Default,,0,0,0,,Is that so?
+Dialogue: 0,0:15:56.74,0:15:57.95,Default,,0,0,0,,Yes!
+Dialogue: 0,0:16:01.16,0:16:05.95,Default,,0,0,0,,Today, the new second\Nand third-year students officially...
+Dialogue: 0,0:16:21.20,0:16:26.04,Default,,0,0,0,,That reminds me! The chocolate you\Ngave me as a souvenir was so delicious!
+Dialogue: 0,0:16:26.04,0:16:28.24,Default,,0,0,0,,Really? Glad to hear it.
+Dialogue: 0,0:16:30.24,0:16:32.04,Default,,0,0,0,,Good morning.
+Dialogue: 0,0:16:32.04,0:16:33.70,Default,,0,0,0,,Good morning, Miyuki!
+Dialogue: 0,0:16:33.70,0:16:35.20,Default,,0,0,0,,Morning.
+Dialogue: 0,0:16:37.20,0:16:40.66,Default,,0,0,0,,Are we still on for tomorrow?
+Dialogue: 0,0:16:40.66,0:16:46.54,Default,,0,0,0,,The party? Yes. Just as we planned.\NMy brother will take part, too.
+Dialogue: 0,0:16:46.54,0:16:48.54,Default,,0,0,0,,Really? Thank you.
+Dialogue: 0,0:16:48.54,0:16:50.37,Default,,0,0,0,,No, thank you.
+Dialogue: 0,0:16:50.37,0:16:52.04,Default,,0,0,0,,I can't wait!
+Dialogue: 0,0:16:52.49,0:16:55.41,Default,,0,0,0,,{\fad(0,500)\shad2\fs39\bord0\fnOpen Sans\b0\3c&H000000&\u1\c&HFFFFFF&\4c&H000000&\pos(308,90)}SHINAGAWA STATION
+Dialogue: 0,0:17:14.33,0:17:17.41,Default,,0,0,0,,Last stop. Shinagawa.\NThis is Shinagawa.
+Dialogue: 0,0:17:17.41,0:17:19.79,Default,,0,0,0,,Thank you for riding the train.
+Dialogue: 0,0:17:21.12,0:17:24.79,Default,,0,0,0,,Tokyo is as crowded as ever, huh, Fumiya?
+Dialogue: 0,0:17:24.79,0:17:27.54,Default,,0,0,0,,It sure is, Sister.
+Dialogue: 0,0:17:27.54,0:17:29.87,Default,,0,0,0,,Should we wait for the crowd to thin out?
+Dialogue: 0,0:17:29.87,0:17:32.66,Default,,0,0,0,,No, let's just get to the hotel.
+Dialogue: 0,0:17:37.58,0:17:38.83,Default,,0,0,0,,At any rate...
+Dialogue: 0,0:17:38.83,0:17:43.33,Default,,0,0,0,,this came out of nowhere.\NAll of a sudden, a job in Tokyo...
+Dialogue: 0,0:17:43.33,0:17:47.91,Default,,0,0,0,,Does Dad even know the Fourth High\Nentrance ceremony is the day after tomorrow?
+Dialogue: 0,0:17:48.83,0:17:53.58,Default,,0,0,0,,But you were pleased when you heard\Nabout his job in Tokyo, remember?
+Dialogue: 0,0:17:53.58,0:17:57.04,Default,,0,0,0,,You were like,\N"I may be able to see Tatsuya there."
+Dialogue: 0,0:17:57.04,0:17:59.54,Default,,0,0,0,,I-I'm not pleased at all!
+Dialogue: 0,0:17:59.54,0:18:02.79,Default,,0,0,0,,Huh? You're not happy\Nabout the prospect of meeting Tatsuya?
+Dialogue: 0,0:18:02.79,0:18:05.62,Default,,0,0,0,,No!
+Dialogue: 0,0:18:05.62,0:18:11.62,Default,,0,0,0,,I mean, I would love to see Tatsuya,\Nbut that's not my goal especially.
+Dialogue: 0,0:18:20.33,0:18:21.91,Default,,0,0,0,,Enter.
+Dialogue: 0,0:18:23.79,0:18:27.29,Default,,0,0,0,,Pardon me. I have brought her here.
+Dialogue: 0,0:18:29.24,0:18:30.66,Default,,0,0,0,,Go to her.
+Dialogue: 0,0:18:30.66,0:18:32.70,Default,,0,0,0,,Yes, sir. At once.
+Dialogue: 0,0:18:37.66,0:18:40.83,Default,,0,0,0,,Minami, raise your head.
+Dialogue: 0,0:18:40.83,0:18:42.99,Default,,0,0,0,,Yes, ma'am.
+Dialogue: 0,0:18:46.95,0:18:51.16,Default,,0,0,0,,I would like to ask you\Nto do magician work.
+Dialogue: 0,0:18:52.41,0:18:55.87,Default,,0,0,0,,May I inquire about the details?
+Dialogue: 0,0:18:55.87,0:19:00.24,Default,,0,0,0,,Do you know Tokyo Offshore Tower?
+Dialogue: 0,0:19:00.24,0:19:02.04,Default,,0,0,0,,Yes, I know of it.
+Dialogue: 0,0:19:04.41,0:19:10.33,Default,,0,0,0,,Tokyo Offshore Tower was erected\Nin Tokyo Bay and has a height of 2,000 meters.
+Dialogue: 0,0:19:10.33,0:19:14.04,Default,,0,0,0,,With 360 floors aboveground\Nand 36 floors underground,
+Dialogue: 0,0:19:14.04,0:19:17.29,Default,,0,0,0,,it's Japan's first hyperbuilding.
+Dialogue: 0,0:19:17.29,0:19:18.41,Default,,0,0,0,,Tomorrow night,
+Dialogue: 0,0:19:18.41,0:19:22.62,Default,,0,0,0,,there will be a party on the top floor\Nto celebrate the completion of its construction,
+Dialogue: 0,0:19:22.62,0:19:29.24,Default,,0,0,0,,but I have obtained information that a radical\Nmagic supremacist group is targeting the event.
+Dialogue: 0,0:19:29.24,0:19:33.29,Default,,0,0,0,,They're called the "New Breed Front."\NPerhaps you're familiar with them.
+Dialogue: 0,0:19:33.29,0:19:35.79,Default,,0,0,0,,The New Breed Front...
+Dialogue: 0,0:19:35.79,0:19:38.91,Default,,0,0,0,,No. I apologize for my ignorance.
+Dialogue: 0,0:19:40.95,0:19:44.62,Default,,0,0,0,,They're a group of radical magicians who formed\Nin response to the discriminatory boycotts
+Dialogue: 0,0:19:44.62,0:19:46.29,Default,,0,0,0,,against magicians by the humanists.
+Dialogue: 0,0:19:46.29,0:19:50.62,Default,,0,0,0,,They are an extremist group claiming that\Nmagicians are the most evolved form of humans
+Dialogue: 0,0:19:50.62,0:19:54.08,Default,,0,0,0,,who will control the future.
+Dialogue: 0,0:19:54.08,0:19:59.54,Default,,0,0,0,,Apparently, their goal is to free magicians\Nfrom being forced to work like slaves
+Dialogue: 0,0:19:59.54,0:20:01.83,Default,,0,0,0,,for the old humanity.
+Dialogue: 0,0:20:03.66,0:20:08.87,Default,,0,0,0,,That group is trying to attack\Nthe party tomorrow night?
+Dialogue: 0,0:20:08.87,0:20:14.37,Default,,0,0,0,,I can't say for sure that the New Breed Front's\Ntarget is the party venue.
+Dialogue: 0,0:20:14.37,0:20:16.87,Default,,0,0,0,,However, it is certain\Nthat the time of the party
+Dialogue: 0,0:20:16.87,0:20:22.33,Default,,0,0,0,,coincides with their plan\Nto attack Tokyo Offshore Tower.
+Dialogue: 0,0:20:22.33,0:20:27.41,Default,,0,0,0,,It seems they've been adding Extras\Nto their ranks, as well, so be careful.
+Dialogue: 0,0:20:27.41,0:20:29.66,Default,,0,0,0,,Extras?
+Dialogue: 0,0:20:29.66,0:20:33.45,Default,,0,0,0,,Yes. I take it you don't know\Nwhat they are yet.
+Dialogue: 0,0:20:33.45,0:20:37.87,Default,,0,0,0,,It refers to families that have\Nbeen stripped of their numbers.
+Dialogue: 0,0:20:37.87,0:20:39.41,Default,,0,0,0,,Reasons for their removal are various
+Dialogue: 0,0:20:39.41,0:20:43.83,Default,,0,0,0,,but include treason and the failure\Nto demonstrate their abilities.
+Dialogue: 0,0:20:45.54,0:20:46.95,Default,,0,0,0,,I understand.
+Dialogue: 0,0:20:46.95,0:20:51.04,Default,,0,0,0,,But what would you like me to do?
+Dialogue: 0,0:20:51.04,0:20:54.33,Default,,0,0,0,,I will have someone else\Nwatch the outside of the building.
+Dialogue: 0,0:20:54.33,0:21:00.62,Default,,0,0,0,,Minami, I want you to accompany Hayama\Nand stand by at the party.
+Dialogue: 0,0:21:00.62,0:21:08.04,Default,,0,0,0,,If the situation demands urgent attention,\Nfollow Hayama's instructions. Understood?
+Dialogue: 0,0:21:08.04,0:21:09.54,Default,,0,0,0,,Yes.
+Dialogue: 0,0:21:11.62,0:21:12.91,Default,,0,0,0,,Um...
+Dialogue: 0,0:21:12.91,0:21:17.20,Default,,0,0,0,,I would like to ask one thing.
+Dialogue: 0,0:21:17.20,0:21:18.99,Default,,0,0,0,,What is it?
+Dialogue: 0,0:21:18.99,0:21:23.16,Default,,0,0,0,,What should I actually do at the party?
+Dialogue: 0,0:21:23.16,0:21:26.20,Default,,0,0,0,,I don't have any experience\Nbeing a party hostess,
+Dialogue: 0,0:21:26.20,0:21:30.74,Default,,0,0,0,,so if possible, I'd like to receive a lecture\Nabout my duties beforehand.
+Dialogue: 0,0:21:34.33,0:21:35.45,Default,,0,0,0,,Ma'am?
+Dialogue: 0,0:21:35.45,0:21:38.29,Default,,0,0,0,,I apologize for laughing.
+Dialogue: 0,0:21:38.29,0:21:42.49,Default,,0,0,0,,Oh, there's no need\Nfor you to apologize, ma'am.
+Dialogue: 0,0:21:42.49,0:21:46.83,Default,,0,0,0,,It seems you have the wrong idea, Minami.
+Dialogue: 0,0:21:46.83,0:21:51.20,Default,,0,0,0,,You will be there as Hayama's bodyguard.
+Dialogue: 0,0:21:51.20,0:21:55.24,Default,,0,0,0,,I already have your invitation.
+Dialogue: 0,0:21:55.24,0:21:57.33,Default,,0,0,0,,Certainly.
+Dialogue: 0,0:21:57.33,0:22:02.20,Default,,0,0,0,,I'll have a dress you'll be able to put on yourself\Nprepared for you at a hotel in the metro area.
+Dialogue: 0,0:22:02.20,0:22:04.29,Default,,0,0,0,,And you can do your own makeup, right?
+Dialogue: 0,0:22:04.29,0:22:06.49,Default,,0,0,0,,Yes, that will be no problem.
+Dialogue: 0,0:22:08.45,0:22:10.24,Default,,0,0,0,,Good.
+Dialogue: 0,0:22:10.24,0:22:15.04,Default,,0,0,0,,I'm sorry for springing this job on you\Nthe day before the entrance ceremony.
+Dialogue: 0,0:22:16.66,0:22:23.29,Default,,0,0,0,,If it's an order from you, ma'am,\NMinami Sakurai shall gladly obey.
+Dialogue: 0,0:23:48.49,0:23:52.04,Default,,0,0,0,,{\bord3\fnOpen Sans Extrabold\b0\c&HFFFEFC&\3c&H1D3EDF&\pos(702,68)}VISITOR ARC XII
